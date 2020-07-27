@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc691565059aaeb1731df9d898e122e3",
+    "revision": "1b8f376e60d7fc0a854c500ff27414cb",
     "url": "/bmduiglobal/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bmduiglobal/static/js/2.2be4637e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a48c565a6ab28355c77",
-    "url": "/bmduiglobal/static/js/main.41a4bde2.chunk.js"
+    "revision": "84062de227919e3c41d4",
+    "url": "/bmduiglobal/static/js/main.dc860be7.chunk.js"
   },
   {
     "revision": "433a7f61aba787fe0ba8",
