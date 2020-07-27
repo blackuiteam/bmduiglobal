@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/bmduiglobal/static/js/main.41a4bde2.chunk.js",
+    "main.js.map": "/bmduiglobal/static/js/main.41a4bde2.chunk.js.map",
+    "runtime-main.js": "/bmduiglobal/static/js/runtime-main.75987714.js",
+    "runtime-main.js.map": "/bmduiglobal/static/js/runtime-main.75987714.js.map",
+    "static/js/2.2be4637e.chunk.js": "/bmduiglobal/static/js/2.2be4637e.chunk.js",
+    "static/js/2.2be4637e.chunk.js.map": "/bmduiglobal/static/js/2.2be4637e.chunk.js.map",
+    "index.html": "/bmduiglobal/index.html",
+    "precache-manifest.5202c23e34f57a9ced6262df8258f02e.js": "/bmduiglobal/precache-manifest.5202c23e34f57a9ced6262df8258f02e.js",
+    "service-worker.js": "/bmduiglobal/service-worker.js",
+    "static/js/2.2be4637e.chunk.js.LICENSE.txt": "/bmduiglobal/static/js/2.2be4637e.chunk.js.LICENSE.txt",
+    "static/media/home-bg-0.png": "/bmduiglobal/static/media/home-bg-0.20e558d0.png",
+    "static/media/home-bg-1.png": "/bmduiglobal/static/media/home-bg-1.ee6d1e8c.png",
+    "static/media/home-bg-2.png": "/bmduiglobal/static/media/home-bg-2.a315aa4c.png",
+    "static/media/home-bg-3.png": "/bmduiglobal/static/media/home-bg-3.fb98f192.png",
+    "static/media/noise-bg.png": "/bmduiglobal/static/media/noise-bg.7673bf9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75987714.js",
+    "static/js/2.2be4637e.chunk.js",
+    "static/js/main.41a4bde2.chunk.js"
+  ]
+}
