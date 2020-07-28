@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.js": "/bmduiglobal/static/js/main.dc860be7.chunk.js",
-    "main.js.map": "/bmduiglobal/static/js/main.dc860be7.chunk.js.map",
+    "main.js": "/bmduiglobal/static/js/main.e9745d47.chunk.js",
+    "main.js.map": "/bmduiglobal/static/js/main.e9745d47.chunk.js.map",
     "runtime-main.js": "/bmduiglobal/static/js/runtime-main.75987714.js",
     "runtime-main.js.map": "/bmduiglobal/static/js/runtime-main.75987714.js.map",
-    "static/js/2.2be4637e.chunk.js": "/bmduiglobal/static/js/2.2be4637e.chunk.js",
-    "static/js/2.2be4637e.chunk.js.map": "/bmduiglobal/static/js/2.2be4637e.chunk.js.map",
+    "static/js/2.4ac0a08c.chunk.js": "/bmduiglobal/static/js/2.4ac0a08c.chunk.js",
+    "static/js/2.4ac0a08c.chunk.js.map": "/bmduiglobal/static/js/2.4ac0a08c.chunk.js.map",
     "index.html": "/bmduiglobal/index.html",
-    "precache-manifest.b705e4dcc48c2f8f711711d02a1934a8.js": "/bmduiglobal/precache-manifest.b705e4dcc48c2f8f711711d02a1934a8.js",
+    "precache-manifest.cced69ee1623186de60c99bc227e0add.js": "/bmduiglobal/precache-manifest.cced69ee1623186de60c99bc227e0add.js",
     "service-worker.js": "/bmduiglobal/service-worker.js",
-    "static/js/2.2be4637e.chunk.js.LICENSE.txt": "/bmduiglobal/static/js/2.2be4637e.chunk.js.LICENSE.txt",
+    "static/js/2.4ac0a08c.chunk.js.LICENSE.txt": "/bmduiglobal/static/js/2.4ac0a08c.chunk.js.LICENSE.txt",
+    "static/media/accessible.svg": "/bmduiglobal/static/media/accessible.f7447e5a.svg",
+    "static/media/cooking.svg": "/bmduiglobal/static/media/cooking.5eaf0a21.svg",
+    "static/media/discoverable.svg": "/bmduiglobal/static/media/discoverable.c22af9f4.svg",
+    "static/media/fast.svg": "/bmduiglobal/static/media/fast.b30e67d8.svg",
     "static/media/home-bg-0.png": "/bmduiglobal/static/media/home-bg-0.20e558d0.png",
     "static/media/home-bg-1.png": "/bmduiglobal/static/media/home-bg-1.ee6d1e8c.png",
     "static/media/home-bg-2.png": "/bmduiglobal/static/media/home-bg-2.a315aa4c.png",
     "static/media/home-bg-3.png": "/bmduiglobal/static/media/home-bg-3.fb98f192.png",
+    "static/media/lighthouse-accessibility.svg": "/bmduiglobal/static/media/lighthouse-accessibility.4a1d2bcb.svg",
     "static/media/noise-bg.png": "/bmduiglobal/static/media/noise-bg.7673bf9c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.75987714.js",
-    "static/js/2.2be4637e.chunk.js",
-    "static/js/main.dc860be7.chunk.js"
+    "static/js/2.4ac0a08c.chunk.js",
+    "static/js/main.e9745d47.chunk.js"
   ]
 }
