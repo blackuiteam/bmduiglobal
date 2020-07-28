@@ -41,6 +41,12 @@ const Home: React.FC = () => {
 			title: 'Blog',
 			content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, tempora eius modi doloremque at optio aspernatur iusto qui! Possimus ducimus facere numquam eos enim veritatis!'
 		},
+		{
+			to: '/kitchen',
+			cssClass: 'kitchen',
+			title: 'Kitchen',
+			content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem nam assumenda atque ad numquam dolorum nisi totam quam blanditiis vero, ipsum harum maxime?'
+		},
 	]
 
 	return (
